@@ -5,7 +5,9 @@ Michael L. Thompson
 ## Introduction
 
 This repository houses examples and presentations on Bayesian Analysis
-that I’d like to share publicly.
+that I’d like to share publicly. This adds a more active component to my
+passive sharing of Bayesian content through my Flipboard e-zine mashup
+[“Bayesian”](https://flipboard.com/@apollostream/bayesian-8jbdtq26z).
 
 For the moment, it only holds an Acrobat PDF file of the excerpted
 [slides from a 1-hour introductory
@@ -26,7 +28,6 @@ Workflow”](https://statmodeling.stat.columbia.edu/2020/11/10/bayesian-workflow
 ## About
 
 See [my LinkedIn profile](https://www.linkedin.com/in/mlthomps).
-
 
 ## MIT License
 
@@ -56,4 +57,3 @@ these files:
 > CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 > TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 > SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
